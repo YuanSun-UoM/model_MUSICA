@@ -53,3 +53,5 @@
 [NCAR HPC file directory](./HPC_input_files_location.xlsx)
 
 - [Download](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqNablLIRxQhTtoEoEoTvwEQ8NjRPLL207ktC3l8F6miK9tojQ-oanEYhgYUIRmQ/pubhtml?)
+
+[UK National Atmospheric Emissions Inventory (NAEI)](https://naei.energysecurity.gov.uk/)
